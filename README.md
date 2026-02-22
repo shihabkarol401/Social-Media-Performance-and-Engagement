@@ -152,6 +152,10 @@ The model is deployment-ready and can be integrated into:
 - Batch prediction pipelines
 - Real-time content scoring systems
 
+Click the link below to view the deployed model:
+
+https://shihabkarol-social-media-performance-and-engagement.hf.space/?logs=container&__theme=system&deep_link=YHS4B_sjZrQ
+
 8. Key Insights:
 - Engagement intensity metrics outperform raw reach metrics in predictive strength.
 - Platform-specific normalization significantly enhances model reliability.
